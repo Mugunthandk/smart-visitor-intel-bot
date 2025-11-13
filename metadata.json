@@ -1,0 +1,5 @@
+{
+  "name": "Smart Visitor Intelligence",
+  "description": "An advanced SalesIQ extension featuring an AI-powered operator widget. The widget displays enriched visitor insights, chat summaries, and suggested actions to reduce operator workload and enhance visitor engagement.",
+  "requestFramePermissions": []
+}
