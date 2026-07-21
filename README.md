@@ -1,20 +1,239 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+# 🎥 Veo Animator
+
+### ✨ Animate Images into Stunning AI Videos
+
+Transform static images into smooth, cinematic AI-generated videos using Google's Veo technology with an intuitive and modern web interface.
+
+![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react)
+![AI](https://img.shields.io/badge/Powered%20By-Google%20Veo-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+# 🚀 Overview
 
-View your app in AI Studio: https://ai.studio/apps/drive/1M8WhQbYruM4KNLx-pNkGU6brTaeqU_0n
+Veo Animator is an AI-powered web application that converts a single image into a realistic animated video. Simply upload an image, choose your preferred aspect ratio, and let AI generate a dynamic video in seconds.
 
-## Run Locally
+Whether you're a content creator, designer, marketer, or social media enthusiast, Veo Animator helps bring your ideas to life effortlessly.
 
-**Prerequisites:**  Node.js
+---
 
+# ✨ Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🎥 AI Image-to-Video Generation
+
+🖼️ Upload PNG & JPG Images
+
+📱 Multiple Aspect Ratios (16:9 & 9:16)
+
+⚡ Fast Video Generation
+
+🎨 Clean & Modern UI
+
+📂 Drag & Drop Upload Support
+
+📱 Mobile Responsive Design
+
+☁️ Cloud-Based Processing
+
+🔒 Secure File Upload
+
+🚀 Smooth User Experience
+
+---
+
+# 📸 Application Workflow
+
+## 1️⃣ Upload an Image
+
+- Upload PNG or JPG images
+- Drag & Drop Support
+- Maximum file size: **10 MB**
+
+---
+
+## 2️⃣ Select Aspect Ratio
+
+Choose your preferred output format.
+
+📺 **16:9** — Landscape
+
+📱 **9:16** — Portrait
+
+---
+
+## 3️⃣ Generate Video
+
+Click **Generate Video** and let AI animate your image into a stunning cinematic video.
+
+---
+
+# 🌟 Use Cases
+
+🎬 Content Creation
+
+📱 Instagram Reels
+
+🎵 YouTube Shorts
+
+🎥 TikTok Videos
+
+📢 Marketing Videos
+
+🛍️ Product Advertisements
+
+🎨 Creative Storytelling
+
+📚 Educational Content
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+
+## Backend
+
+- Node.js
+- Express.js
+
+## AI
+
+- Google Veo API
+
+## Deployment
+
+- Vercel / Render
+
+---
+
+# 📂 Project Structure
+
+```text
+VeoAnimator/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── services/
+│   ├── assets/
+│   ├── hooks/
+│   └── utils/
+│
+├── package.json
+├── README.md
+└── .env
+```
+
+---
+
+# 🚀 Getting Started
+
+## Clone Repository
+
+```bash
+git clone https://github.com/your-username/veo-animator.git
+```
+
+## Navigate
+
+```bash
+cd veo-animator
+```
+
+## Install Dependencies
+
+```bash
+npm install
+```
+
+## Run Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+# 📸 Screenshots
+
+### 🖼 Upload Image
+
+- Upload PNG/JPG
+- Drag & Drop
+
+### 📺 Choose Aspect Ratio
+
+- 16:9 Landscape
+- 9:16 Portrait
+
+### 🎥 AI Generated Video
+
+- High-quality animated output
+
+---
+
+# 🌍 Future Enhancements
+
+✨ Text-to-Video Generation
+
+🎙️ AI Voice Narration
+
+🎵 Background Music
+
+🎞️ Multiple Animation Styles
+
+🌈 Custom Motion Effects
+
+🎨 AI Prompt Editing
+
+📥 HD Video Download
+
+☁️ Cloud Storage
+
+🌍 Multi-language Support
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Push the branch
+5. Open a Pull Request
+
+---
+
+# ⭐ Support
+
+If you like this project,
+
+⭐ Star this repository
+
+🍴 Fork it
+
+📢 Share it with others
+
+---
+
+<div align="center">
+
+## 🎥 Turn Static Images into Dynamic Stories with AI
+
+Made with ❤️ by **Mugunthan DK**
+
+</div>
