@@ -1,196 +1,73 @@
-# ✨ Why Choose Veo Animator?
-
-<div align="center">
+# 🎬 VEO ANIMATOR
 
 ### 🚀 Enterprise AI Image-to-Video Generation Platform
 
-Transform static images into cinematic, high-quality videos using Google's Veo AI with an intuitive, cloud-native experience.
+> **Transform Static Images into Cinematic Videos with AI**
 
-</div>
+Veo Animator is a modern AI-powered image-to-video generation platform designed to transform static images into dynamic, cinematic video experiences using **Google Veo AI**.
+
+The platform provides an intuitive workflow for uploading images, creating animation prompts, generating videos, previewing results, and managing generated content through a cloud-based interface.
+
+---
+
+# 🌟 Why Choose Veo Animator?
 
 | 🤖 AI Intelligence | 🎥 Professional Quality | ⚡ Performance | ☁️ Cloud Platform |
-|:------------------:|:----------------------:|:-------------:|:----------------:|
-| Google Veo AI Integration | HD Video Generation | Optimized Rendering | Cloud-Based Processing |
-| Intelligent Motion Planning | Cinematic Camera Movement | Fast Processing Pipeline | No Installation Required |
-| Prompt-Based Animation | Scene Consistency | Responsive Interface | Cross-Platform Access |
-| Style Preservation | Professional Output | Modern UI/UX | Scalable Infrastructure |
+|:------------------:|:-----------------------:|:--------------:|:-----------------:|
+| Google Veo AI Integration | HD Video Generation | Optimized Pipeline | Cloud Processing |
+| Intelligent Motion Planning | Cinematic Camera Movement | Fast Processing | No Installation |
+| Prompt-Based Animation | Scene Consistency | Responsive UI | Cross-Platform |
+| Style Preservation | Professional Output | Modern UX | Scalable Architecture |
 
 ---
-# 🏗 System Architecture
 
-```text
-                 User
-                  │
-                  ▼
-         React Frontend (UI)
-                  │
-                  ▼
-       Upload & Prompt Manager
-                  │
-                  ▼
-          Google Veo AI API
-                  │
-        ┌─────────┴─────────┐
-        ▼                   ▼
- Image Understanding   Prompt Analysis
-        │                   │
-        └─────────┬─────────┘
-                  ▼
-         Motion Generation Engine
-                  │
-                  ▼
-      Cinematic Video Rendering
-                  │
-                  ▼
-         Video Preview & Download
-```
 # 🚀 Core Features
 
-### 🎥 AI Video Generation
+## 🎥 AI Image-to-Video Generation
 
-- AI Image-to-Video Conversion
-- Prompt-Based Motion Generation
-- Cinematic Camera Movement
-- HD Video Rendering
-- Multiple Aspect Ratios
-- High-Speed Cloud Rendering
-- Style Consistency
-- Frame Optimization
+- 🖼️ Image-to-Video Generation
+- ✨ Prompt-Based Animation
+- 🎬 Cinematic Camera Movement
+- 🤖 AI Motion Generation
+- 🎨 Style Preservation
+- 🎞️ Scene Consistency
+- 📺 HD Video Output
+- 📐 Multiple Aspect Ratios
+- ☁️ Cloud-Based Rendering
+- ⚡ Optimized Processing
 
 ---
 
-### 🖼 Image Processing
+# 🖼️ Image Processing
+
+Users can upload images and prepare them for AI animation.
+
+### Features
 
 - Drag & Drop Upload
 - Image Preview
-- Automatic Validation
-- Secure File Processing
-- Multi-Format Support
+- File Validation
+- Secure Processing
+- Multiple Image Formats
 - Resolution Optimization
-
----
-
-### ⚙ User Experience
-
-- Responsive Design
-- Dark Mode Ready
-- Fast Navigation
-- Real-Time Status Updates
-- Download Manager
-- Beautiful Dashboard
-# 🧠 AI Processing Pipeline
+- Image Metadata Handling
+- Upload Progress
+- Error Handling
 
 ```text
-Upload Image
-      │
-      ▼
-Image Validation
-      │
-      ▼
-Prompt Processing
-      │
-      ▼
-Scene Understanding
-      │
-      ▼
-Motion Planning
-      │
-      ▼
-Frame Generation
-      │
-      ▼
-Temporal Consistency
-      │
-      ▼
-Lighting Enhancement
-      │
-      ▼
-Video Rendering
-      │
-      ▼
-Download Output
-```
-# 📊 Dashboard
-
-| Dashboard Module | Description |
-|------------------|-------------|
-| Upload Manager | Upload and organize images |
-| Prompt Editor | Customize animation prompts |
-| Render Queue | Track rendering progress |
-| Preview Window | Watch generated videos |
-| Download Center | Download completed videos |
-| History | View previous generations |
-| Settings | Configure output preferences |
-| Analytics | Usage and performance insights |
-# 🌍 Use Cases
-
-- 🎬 Film Pre-Visualization
-- 📢 Advertising & Marketing
-- 🛍 Product Demonstrations
-- 🎨 Digital Art Animation
-- 📱 Instagram Reels
-- ▶️ YouTube Shorts
-- 🎵 TikTok Videos
-- 🧑‍🏫 Educational Content
-- 📰 News Graphics
-- 🏢 Business Promotions
-- 🎮 Game Cinematics
-- 🏞 Travel Storytelling
-- 🧬 Scientific Visualization
-- 🏗 Architecture Presentations
-- # 📈 Technical Highlights
-
-✅ Google Veo AI Integration
-
-✅ Modern React Architecture
-
-✅ Component-Based Design
-
-✅ REST API Integration
-
-✅ Responsive Layout
-
-✅ Cloud Rendering
-
-✅ Production-Ready UI
-
-✅ Scalable Application Structure
-
-✅ Optimized Performance
-
-✅ Professional User Experience
-
-✅ Enterprise-Level Code Organization
-
-✅ Cross-Platform Compatibility
-# 🔮 Future Roadmap
-
-### Phase 1
-
-- Image Upload
-- AI Video Generation
-- Download System
-
-### Phase 2
-
-- Prompt Enhancement
-- HD Rendering
-- Animation Presets
-
-### Phase 3
-
-- 4K Video Export
-- Batch Rendering
-- Cloud Gallery
-
-### Phase 4
-
-- AI Voice Narration
-- Background Music
-- Subtitle Generation
-
-### Phase 5
-
-- Video Editor
-- Team Workspace
-- API Platform
+              🖼️ IMAGE
+                  │
+                  ▼
+          Upload / Drag & Drop
+                  │
+                  ▼
+           File Validation
+                  │
+                  ▼
+        Resolution Optimization
+                  │
+                  ▼
+          Image Preview
+                  │
+                  ▼
+           Ready for AI 🚀
